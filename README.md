@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [SpringTask](https://www.rainsheep.cn/articles/2021/09/23/1632370955823.html)
+* [小米手机刷机](https://www.rainsheep.cn/articles/2021/09/23/1632366442170.html)
 * [springboot 日志](https://www.rainsheep.cn/articles/2021/09/21/1632197415896.html)
 * [springboot jar 和 war 的区别](https://www.rainsheep.cn/articles/2021/09/18/1631945279380.html)
 * [伪造 ip](https://www.rainsheep.cn/articles/2021/09/04/1630767091858.html)
@@ -28,8 +30,6 @@
 * [OSS 搭建图床](https://www.rainsheep.cn/articles/2021/08/03/1628003410168.html)
 * [Spring Boot+Spring Security+JWT实现单点登录](https://www.rainsheep.cn/articles/2021/08/02/1627918976083.html)
 * [JWT 异常](https://www.rainsheep.cn/articles/2021/08/02/1632207390572.html)
-* [替换 rm 命令](https://www.rainsheep.cn/articles/2021/07/30/1627640464460.html)
-* [jetbrains IDE 同步设置](https://www.rainsheep.cn/articles/2021/07/29/1627556427976.html)
 
 
 
