@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [CORS](https://www.rainsheep.cn/articles/2021/10/19/1634643802796.html)
 * [springboot 集成 mongodb](https://www.rainsheep.cn/articles/2021/10/02/1633108531628.html)
 * [springboot 集成 elasticsearch](https://www.rainsheep.cn/articles/2021/10/01/1633103632237.html)
 * [mac 安装 mangodb](https://www.rainsheep.cn/articles/2021/10/01/1633100959279.html)
@@ -29,7 +30,6 @@
 * [我在 GitHub 上的开源项目](https://www.rainsheep.cn/github)
 * [累](https://www.rainsheep.cn/articles/2021/08/10/1628529583947.html)
 * [maven 和 gradle 使用](https://www.rainsheep.cn/articles/2021/08/06/1628185814836.html)
-* [nginx 学习笔记](https://www.rainsheep.cn/articles/2021/08/04/1628089528543.html)
 
 
 
