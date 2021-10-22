@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [nginx 502 错误](https://www.rainsheep.cn/articles/2021/10/21/1634815517416.html)
 * [CORS](https://www.rainsheep.cn/articles/2021/10/19/1634643802796.html)
 * [springboot 集成 mongodb](https://www.rainsheep.cn/articles/2021/10/02/1633108531628.html)
 * [springboot 集成 elasticsearch](https://www.rainsheep.cn/articles/2021/10/01/1633103632237.html)
@@ -29,7 +30,6 @@
 * [拦截器和过滤器区别](https://www.rainsheep.cn/articles/2021/08/22/1629608544693.html)
 * [我在 GitHub 上的开源项目](https://www.rainsheep.cn/github)
 * [累](https://www.rainsheep.cn/articles/2021/08/10/1628529583947.html)
-* [maven 和 gradle 使用](https://www.rainsheep.cn/articles/2021/08/06/1628185814836.html)
 
 
 
