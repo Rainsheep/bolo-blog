@@ -10,6 +10,11 @@
 
 ### 最新
 
+* [redis 集群](https://www.rainsheep.cn/articles/2021/10/25/1635166079366.html)
+* [mysql 读写分离](https://www.rainsheep.cn/articles/2021/10/25/1635150511929.html)
+* [mysql 主从复制](https://www.rainsheep.cn/articles/2021/10/25/1635146110478.html)
+* [Docker Compose](https://www.rainsheep.cn/articles/2021/10/25/1635141467332.html)
+* [使用 Maven 插件为 SpringBoot 应用构建 Docker 镜像](https://www.rainsheep.cn/articles/2021/10/25/1635140113377.html)
 * [nginx 502 错误](https://www.rainsheep.cn/articles/2021/10/21/1634815517416.html)
 * [CORS](https://www.rainsheep.cn/articles/2021/10/19/1634643802796.html)
 * [springboot 集成 mongodb](https://www.rainsheep.cn/articles/2021/10/02/1633108531628.html)
@@ -25,11 +30,6 @@
 * [@AliasFor](https://www.rainsheep.cn/articles/2021/09/03/1630640642592.html)
 * [MyBatis Generator](https://www.rainsheep.cn/articles/2021/09/02/1630583468424.html)
 * [憨憨](https://www.rainsheep.cn/articles/2021/08/29/1630216560368.html)
-* [不平凡的生活](https://www.rainsheep.cn/shiliu)
-* [request 字节流只能读取一次](https://www.rainsheep.cn/articles/2021/08/22/1629610223095.html)
-* [拦截器和过滤器区别](https://www.rainsheep.cn/articles/2021/08/22/1629608544693.html)
-* [我在 GitHub 上的开源项目](https://www.rainsheep.cn/github)
-* [累](https://www.rainsheep.cn/articles/2021/08/10/1628529583947.html)
 
 
 
