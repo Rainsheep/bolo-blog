@@ -11,7 +11,7 @@
 ### 最新
 
 * [AS 使用 gradle](https://www.rainsheep.cn/articles/2021/11/17/1637129928168.html)
-* [ssh 免密登录](https://www.rainsheep.cn/articles/2021/11/12/1636717848438.html)
+* [ssh 用户配置](https://www.rainsheep.cn/articles/2021/11/12/1636717848438.html)
 * [acme 自动更新证书](https://www.rainsheep.cn/articles/2021/10/28/1635391790959.html)
 * [Lombok 用法](https://www.rainsheep.cn/articles/2021/10/27/1635312194084.html)
 * [jwt 工具库](https://www.rainsheep.cn/articles/2021/10/27/1635303701772.html)
