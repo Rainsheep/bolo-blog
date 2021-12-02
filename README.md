@@ -1,9 +1,9 @@
-<p align="center"><img alt="雨羊的log" src="https://b3logfile.com/file/2021/01/4087334-f4f28b3b.png"></p><h2 align="center">
-雨羊的log
+<p align="center"><img alt="雨羊的个人博客" src="https://b3logfile.com/file/2021/01/4087334-f4f28b3b.png"></p><h2 align="center">
+雨羊的个人博客
 </h2>
 
 <h4 align="center">咸鱼不配拥有梦想</h4>
-<p align="center"><a title="雨羊的log" target="_blank" href="https://github.com/Rainsheep/bolo-blog"><img src="https://img.shields.io/github/last-commit/Rainsheep/bolo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="雨羊的个人博客" target="_blank" href="https://github.com/Rainsheep/bolo-blog"><img src="https://img.shields.io/github/last-commit/Rainsheep/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Rainsheep/bolo-blog"><img src="https://img.shields.io/github/repo-size/Rainsheep/bolo-blog.svg?style=flat-square"></a>
 <a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.5 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/Rainsheep/bolo-blog.svg"></a></p>
