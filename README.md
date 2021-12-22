@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [mac 终端命令](https://www.rainsheep.cn:8080/articles/2021/12/22/1640145229491.html)
 * [AS 使用 gradle](https://www.rainsheep.cn:8080/articles/2021/11/17/1637129928168.html)
 * [ssh 用户配置](https://www.rainsheep.cn:8080/articles/2021/11/12/1636717848438.html)
 * [acme 自动更新证书](https://www.rainsheep.cn:8080/articles/2021/10/28/1635391790959.html)
@@ -29,7 +30,6 @@
 * [mac 安装 mangodb](https://www.rainsheep.cn:8080/articles/2021/10/01/1633100959279.html)
 * [SpringTask](https://www.rainsheep.cn:8080/articles/2021/09/23/1632370955823.html)
 * [小米手机刷机](https://www.rainsheep.cn:8080/articles/2021/09/23/1632366442170.html)
-* [springboot 日志](https://www.rainsheep.cn:8080/articles/2021/09/21/1632197415896.html)
 
 
 
