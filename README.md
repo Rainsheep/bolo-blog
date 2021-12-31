@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [pom 文件](https://www.rainsheep.cn/articles/2021/12/30/1640862588650.html)
+* [springboot  多个配置文件](https://www.rainsheep.cn/articles/2021/12/30/1640862154579.html)
+* [maven profile](https://www.rainsheep.cn/articles/2021/12/30/1640861247161.html)
 * [mac 终端命令](https://www.rainsheep.cn/articles/2021/12/22/1640145229491.html)
 * [AS 使用 gradle](https://www.rainsheep.cn/articles/2021/11/17/1637129928168.html)
 * [ssh 用户配置](https://www.rainsheep.cn/articles/2021/11/12/1636717848438.html)
@@ -27,9 +30,6 @@
 * [CORS](https://www.rainsheep.cn/articles/2021/10/19/1634643802796.html)
 * [springboot 集成 mongodb](https://www.rainsheep.cn/articles/2021/10/02/1633108531628.html)
 * [springboot 集成 elasticsearch](https://www.rainsheep.cn/articles/2021/10/01/1633103632237.html)
-* [mac 安装 mangodb](https://www.rainsheep.cn/articles/2021/10/01/1633100959279.html)
-* [SpringTask](https://www.rainsheep.cn/articles/2021/09/23/1632370955823.html)
-* [小米手机刷机](https://www.rainsheep.cn/articles/2021/09/23/1632366442170.html)
 
 
 
