@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [sonarqube](https://www.rainsheep.cn/articles/2022/01/09/1641711936805.html)
 * [pom 文件](https://www.rainsheep.cn/articles/2021/12/30/1640862588650.html)
 * [springboot  多个配置文件](https://www.rainsheep.cn/articles/2021/12/30/1640862154579.html)
 * [maven profile](https://www.rainsheep.cn/articles/2021/12/30/1640861247161.html)
@@ -29,7 +30,6 @@
 * [nginx 502 错误](https://www.rainsheep.cn/articles/2021/10/21/1634815517416.html)
 * [CORS](https://www.rainsheep.cn/articles/2021/10/19/1634643802796.html)
 * [springboot 集成 mongodb](https://www.rainsheep.cn/articles/2021/10/02/1633108531628.html)
-* [springboot 集成 elasticsearch](https://www.rainsheep.cn/articles/2021/10/01/1633103632237.html)
 
 
 
