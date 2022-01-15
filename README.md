@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [FreeMarker](https://www.rainsheep.cn/articles/2022/01/15/1642217611237.html)
+* [brew 安装 mysql](https://www.rainsheep.cn/articles/2022/01/14/1642143946987.html)
 * [mac 目录](https://www.rainsheep.cn/articles/2022/01/14/1642139564007.html)
 * [mysql explain](https://www.rainsheep.cn/articles/2022/01/13/1642067723134.html)
 * [mysql 索引](https://www.rainsheep.cn/articles/2022/01/13/1642066741987.html)
@@ -28,8 +30,6 @@
 * [RabbitMQ 消息模式](https://www.rainsheep.cn/articles/2021/10/26/1635236388756.html)
 * [redis 集群](https://www.rainsheep.cn/articles/2021/10/25/1635166079366.html)
 * [mysql 读写分离](https://www.rainsheep.cn/articles/2021/10/25/1635150511929.html)
-* [mysql 主从复制](https://www.rainsheep.cn/articles/2021/10/25/1635146110478.html)
-* [Docker Compose](https://www.rainsheep.cn/articles/2021/10/25/1635141467332.html)
 
 
 
