@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [mybatis plus](https://www.rainsheep.cn/articles/2022/01/16/1642264395147.html)
 * [FreeMarker](https://www.rainsheep.cn/articles/2022/01/15/1642217611237.html)
 * [brew 安装 mysql](https://www.rainsheep.cn/articles/2022/01/14/1642143946987.html)
 * [mac 目录](https://www.rainsheep.cn/articles/2022/01/14/1642139564007.html)
@@ -29,7 +30,6 @@
 * [ELK 收集服务器日志](https://www.rainsheep.cn/articles/2021/10/26/1635249927038.html)
 * [RabbitMQ 消息模式](https://www.rainsheep.cn/articles/2021/10/26/1635236388756.html)
 * [redis 集群](https://www.rainsheep.cn/articles/2021/10/25/1635166079366.html)
-* [mysql 读写分离](https://www.rainsheep.cn/articles/2021/10/25/1635150511929.html)
 
 
 
