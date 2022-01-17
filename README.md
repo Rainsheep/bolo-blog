@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [zookeeper](https://www.rainsheep.cn/articles/2022/01/17/1642351850649.html)
+* [rsync](https://www.rainsheep.cn/articles/2022/01/16/1642341661589.html)
 * [mybatis plus](https://www.rainsheep.cn/articles/2022/01/16/1642264395147.html)
 * [FreeMarker](https://www.rainsheep.cn/articles/2022/01/15/1642217611237.html)
 * [brew 安装 mysql](https://www.rainsheep.cn/articles/2022/01/14/1642143946987.html)
@@ -28,8 +30,6 @@
 * [Lombok 用法](https://www.rainsheep.cn/articles/2021/10/27/1635312194084.html)
 * [jwt 工具库](https://www.rainsheep.cn/articles/2021/10/27/1635303701772.html)
 * [ELK 收集服务器日志](https://www.rainsheep.cn/articles/2021/10/26/1635249927038.html)
-* [RabbitMQ 消息模式](https://www.rainsheep.cn/articles/2021/10/26/1635236388756.html)
-* [redis 集群](https://www.rainsheep.cn/articles/2021/10/25/1635166079366.html)
 
 
 
