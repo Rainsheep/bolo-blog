@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [gitlab-ci 语法](https://www.rainsheep.cn/articles/2022/01/21/1642748834224.html)
 * [zookeeper](https://www.rainsheep.cn/articles/2022/01/17/1642351850649.html)
 * [rsync](https://www.rainsheep.cn/articles/2022/01/16/1642341661589.html)
 * [mybatis plus](https://www.rainsheep.cn/articles/2022/01/16/1642264395147.html)
@@ -29,7 +30,6 @@
 * [acme 自动更新证书](https://www.rainsheep.cn/articles/2021/10/28/1635391790959.html)
 * [Lombok 用法](https://www.rainsheep.cn/articles/2021/10/27/1635312194084.html)
 * [jwt 工具库](https://www.rainsheep.cn/articles/2021/10/27/1635303701772.html)
-* [ELK 收集服务器日志](https://www.rainsheep.cn/articles/2021/10/26/1635249927038.html)
 
 
 
