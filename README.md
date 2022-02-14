@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [rebase](https://www.rainsheep.cn/articles/2022/02/14/1644830198341.html)
 * [Lucene](https://www.rainsheep.cn/articles/2022/02/11/1644569257575.html)
 * [launchctl](https://www.rainsheep.cn/articles/2022/01/28/1643300509203.html)
 * [gitlab-ci 语法](https://www.rainsheep.cn/articles/2022/01/21/1642748834224.html)
@@ -29,7 +30,6 @@
 * [mac 终端命令](https://www.rainsheep.cn/articles/2021/12/22/1640145229491.html)
 * [AS 使用 gradle](https://www.rainsheep.cn/articles/2021/11/17/1637129928168.html)
 * [ssh 用户配置](https://www.rainsheep.cn/articles/2021/11/12/1636717848438.html)
-* [acme 自动更新证书](https://www.rainsheep.cn/articles/2021/10/28/1635391790959.html)
 
 
 
