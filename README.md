@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [差分数组](https://www.rainsheep.cn/articles/2022/02/25/1645780726767.html)
 * [hashmap](https://www.rainsheep.cn/articles/2022/02/24/1645682508771.html)
 * [加密算法](https://www.rainsheep.cn/articles/2022/02/23/1645617196968.html)
 * [flatMap](https://www.rainsheep.cn/articles/2022/02/23/1645585326148.html)
@@ -29,7 +30,6 @@
 * [mysql 索引](https://www.rainsheep.cn/articles/2022/01/13/1642066741987.html)
 * [Mockito](https://www.rainsheep.cn/articles/2022/01/12/1641958671741.html)
 * [sonarqube](https://www.rainsheep.cn/articles/2022/01/09/1641711936805.html)
-* [pom 文件](https://www.rainsheep.cn/articles/2021/12/30/1640862588650.html)
 
 
 
