@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [druid](https://www.rainsheep.cn/articles/2022/03/02/1646220683047.html)
 * [mybatis 缓存](https://www.rainsheep.cn/articles/2022/02/28/1646037801701.html)
 * [spring 三级循环](https://www.rainsheep.cn/articles/2022/02/28/1646027838978.html)
 * [mac 禁用 app 更新](https://www.rainsheep.cn/articles/2022/02/28/1646017561770.html)
@@ -29,7 +30,6 @@
 * [FreeMarker](https://www.rainsheep.cn/articles/2022/01/15/1642217611237.html)
 * [brew 安装 mysql](https://www.rainsheep.cn/articles/2022/01/14/1642143946987.html)
 * [mac 目录](https://www.rainsheep.cn/articles/2022/01/14/1642139564007.html)
-* [mysql explain](https://www.rainsheep.cn/articles/2022/01/13/1642067723134.html)
 
 
 
